@@ -1,0 +1,9 @@
+[submodule "MorphCarNFTs"]
+	path = MorphCarNFTs
+	url = https://github.com/Rainbow1nTheDark/MorphCarNFTs
+[submodule "EthGlobal_Win-ME"]
+	path = EthGlobal_Win-ME
+	url = https://github.com/Ayush-singla27/EthGlobal_Win-ME
+[submodule "EthGlobal_Win-Me_game"]
+	path = EthGlobal_Win-Me_game
+	url = https://github.com/Ayush-singla27/EthGlobal_Win-Me_game
